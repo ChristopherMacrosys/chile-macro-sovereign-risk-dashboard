@@ -1,5 +1,6 @@
 # Chile Macroeconomic & Sovereign Risk Dashboard 
 
+
 ## Overview
 
 This project presents an institutional-style sovereign risk dashboard analyzing Chile’s macro-financial vulnerabilities, sovereign spreads, external-sector sensitivity, FX dynamics, reserve accumulation, and medium-term sovereign outlook.
